@@ -1,0 +1,6 @@
+This program is my interpretation of the popular app 2048. (Currently under development)
+This program will:
+--use multi threading in an efficient way to reduce resource usage and improve responsiveness
+--be compartmentalized in a modular way to allow directed updating without having to rewrite everything else
+--act as a test bed for another program that I will write that will attempt to beat 2048 automatically
+--have a blasted undo button
