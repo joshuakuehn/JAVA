@@ -1,0 +1,4 @@
+This program solves a maze of any size and design using a variant of the A* algorithm to find the shortest path.
+It is not generically constructed so it will only work on mazes built using the grid space I have designed.
+It crudely uses multithreading to handle the creation, solution, and resetting of the maze space.
+It will definitely be rewritten in an attempt to streamline the flow and organization of the logic.
